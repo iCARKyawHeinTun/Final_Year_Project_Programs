@@ -4,7 +4,6 @@ Lead-through Programming / Mitsubishi RV-M1 5DOF Manipulator / C Programming / R
 ## Mitsubishi RV-M1 manipulator
 
 Microprocessors
-
 ## Interface PEX-631204 Encoder 4 / DIO (16)
 ## Interface PEX-340216 
 ## Interface LPC-361416
